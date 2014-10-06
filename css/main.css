@@ -29,3 +29,35 @@ header a:hover, header a:focus {
 	background-color: #CC0000;
 }
 
+#about img {
+	max-height: 400px;
+	float: left;
+	margin-right: 1em;	
+	opacity: 0.7;
+
+
+}
+
+#about img:hover {
+	opacity: 1;
+}
+
+#education {
+	clear: both;
+}
+
+#about {
+	background-color: #F4D64A;
+}
+
+#projects {
+	background-color: #F4D64A;
+}
+
+#education, #contact {
+	background-color: #F3B133;
+}
+
+footer {
+	background-color: #AC2109;
+}
